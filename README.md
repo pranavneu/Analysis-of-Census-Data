@@ -8,3 +8,6 @@ This study goes beyond a cursory glance, offering a detailed exploration of how 
 In this project, the analysis is organized across three key files. The first file is a comprehensive PowerPoint presentation (PPT), which encapsulates the main findings and insights. The second file is an IPython Notebook (IPYNB) that holds all the detailed code implementation. Within the IPYNB file, the analysis heavily relies on essential libraries for data manipulation and visualization. The core tools employed include NumPy for numerical operations, Pandas for structured data handling, and Matplotlib and Seaborn for data visualization. Leveraging these powerful libraries enables efficient data manipulation and the creation of insightful visualizations, providing a comprehensive understanding of the underlying patterns and trends within the dataset.  
 To provide a more immersive understanding of the project, a presentation video has been included, offering a walkthrough of the significant highlights and observations. These three files collectively represent a holistic exploration of the project, serving as a valuable resource for anyone interested in gaining insights into both the findings and the technical intricacies of the analysis.  
 
+The link to access the presentation is provided below. Please feel free to click on the link to view the content!!
+
+
