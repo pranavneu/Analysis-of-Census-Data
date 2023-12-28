@@ -1,2 +1,5 @@
 # Analysis of Census Dataset  
-### Description:
+### Description:  
+In this in-depth exploration, we delve into the intricacies of the "Adult Income Dataset" sourced from the UCI Machine Learning Repository. The dataset provides a nuanced and comprehensive snapshot of demographic information, emphasizing income classification as a focal point. The features encompass a diverse range, including age, work class, education level, marital status, occupation, relationship, race, and gender.  
+Our analytical journey focuses on delineating the distribution of individuals across two distinctive income classifications: those earning more than 50K and those earning 50K or less. By scrutinizing key demographic indicators such as education, occupation, and socio-economic status, our goal is to unveil intricate patterns that contribute to income disparities within this multifaceted population.  
+This study goes beyond a cursory glance, offering a detailed exploration of how various demographic factors intertwine with income levels. The aim is to provide a rich understanding of the socio-economic landscape, shedding light on the nuanced dynamics influencing individuals' income classifications. Through this comprehensive analysis, we strive to contribute valuable insights to the broader discourse on societal structures and economic disparities.  
